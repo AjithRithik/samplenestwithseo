@@ -15,7 +15,7 @@ export default () => (
         site_name: 'Class 2',
         images: [
           {
-            url: 'https://heyhey-static-assets.s3.amazonaws.com/heyheylogo.png',
+            url: 'https://d3332awe4qr6u8.cloudfront.net/eyJidWNrZXQiOiJoZXloZXktdXNlci1wcm9maWxlLXBpY3R1cmVzIiwia2V5IjoiMTU3NDgwMDA0NjI3NE5GRm5IdFhvbUN5TE9GRy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIifX19',
             width: 80,
             height: 80,
             alt: 'Og Second',
