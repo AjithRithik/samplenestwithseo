@@ -10,18 +10,18 @@ export default () => (
       nofollow={false}
       openGraph={{
         url: 'https://samplenestwithseo.now.sh/',
-        title: 'First page open',
+        title: 'Title for the React page',
         type: 'website',
         images: [
           {
-            url: 'https://assetshuluimcom-a.akamaihd.net/h3o/facebook_share_thumb_default_hulu.jpg',
+            url: 'https://reactjs.org/logo-og.png',
             width: 80,
             height: 80,
             alt: 'Og Image Alt',
           }
         ],
-        description: 'First page open',
-        site_name: 'Class 1',
+        description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.',
+        site_name: 'React',
       }}
     />
     <h1>First Page</h1>

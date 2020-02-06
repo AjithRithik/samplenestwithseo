@@ -10,12 +10,12 @@ export default () => (
       description="this the Second page"
       openGraph={{
         url: 'https://samplenestwithseo.now.sh/second',
-        title: 'second page open',
-        description: 'second page open',
-        site_name: 'Class 2',
+        title: 'Title for the NEXTJS page',
+        description: 'No need to learn a new framework. Exporting a static site with Next.js is as easy as a single command.',
+        site_name: 'Nextjs',
         images: [
           {
-            url: 'https://assetshuluimcom-a.akamaihd.net/h3o/facebook_share_thumb_default_hulu.jpg',
+            url: 'https://nextjs.org/static/twitter-cards/learn.png',
             width: 80,
             height: 80,
             alt: 'Og Second',
