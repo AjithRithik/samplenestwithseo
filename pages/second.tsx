@@ -15,7 +15,7 @@ export default () => (
         site_name: 'Class 2',
         images: [
           {
-            url: 'https://i.pravatar.cc/80',
+            url: 'https://heyhey-static-assets.s3.amazonaws.com/heyheylogo.png',
             width: 80,
             height: 80,
             alt: 'Og Second',
