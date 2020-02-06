@@ -9,10 +9,18 @@ export default () => (
       title="Second Page"
       description="this the Second page"
       openGraph={{
-        url: 'https://www.url.ie/a',
+        url: 'https://samplenestwithseo.now.sh/second',
         title: 'second page open',
         description: 'second page open',
-        site_name: 'SiteName',
+        site_name: 'Class 2',
+        images: [
+          {
+            url: 'https://i.pravatar.cc/80',
+            width: 80,
+            height: 80,
+            alt: 'Og Second',
+          }
+        ]
       }}
     />
     <h1>SecondPage Added to Page</h1>
